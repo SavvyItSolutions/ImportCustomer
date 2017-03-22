@@ -1,0 +1,18 @@
+c:\users\soumik\documents\visual studio 2015\Projects\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.exe.config
+c:\users\soumik\documents\visual studio 2015\Projects\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.exe
+c:\users\soumik\documents\visual studio 2015\Projects\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.pdb
+c:\users\soumik\documents\visual studio 2015\Projects\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.exe
+c:\users\soumik\documents\visual studio 2015\Projects\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.pdb
+c:\users\soumik\documents\visual studio 2015\Projects\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.csprojResolveAssemblyReference.cache
+C:\soumik\Savvy\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.exe.config
+C:\soumik\Savvy\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.exe
+C:\soumik\Savvy\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.pdb
+C:\soumik\Savvy\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.csprojResolveAssemblyReference.cache
+C:\soumik\Savvy\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.exe
+C:\soumik\Savvy\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.pdb
+C:\GIT\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.exe.config
+C:\GIT\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.exe
+C:\GIT\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.pdb
+C:\GIT\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.exe
+C:\GIT\ImportCustomer\ImportCustomer\bin\Debug\ImportCustomer.pdb
+C:\GIT\ImportCustomer\ImportCustomer\obj\Debug\ImportCustomer.csprojResolveAssemblyReference.cache
